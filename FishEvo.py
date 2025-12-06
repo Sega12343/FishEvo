@@ -1,1 +1,2 @@
-shag
+import os
+from telegram
